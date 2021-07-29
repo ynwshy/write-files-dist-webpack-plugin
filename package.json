@@ -1,0 +1,13 @@
+{
+  "name": "write-files-dist-webpack-plugin",
+  "version": "1.0.0",
+  "description": "write-files-dist-webpack-plugin vue vue.config.js 写文件到dist目录下",
+  "main": "index.js",
+  "scripts": {},
+  "author": "ynwshy@126.com",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "lodash": "^4.17.21"
+  }
+}
